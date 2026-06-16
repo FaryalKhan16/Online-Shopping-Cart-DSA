@@ -1,6 +1,6 @@
-Online Shopping Cart | Python | DSA
+# Online Shopping Cart | Python | DSA
 
-Features:
+## Features:
 
 . User Registration & Login
 
@@ -12,7 +12,7 @@ Features:
 
 . Checkout functionality
 
-Tech Stack:
+## Tech Stack:
 
 . Python 3.x
 
@@ -20,7 +20,7 @@ Tech Stack:
 
 . Pillow (Image processing)
 
-How to Use:
+## How to Use:
 
 . Register a new account
 
@@ -32,7 +32,7 @@ How to Use:
 
 . "View Cart" → "Checkout" to complete purchase
 
-Requirements:
+## Requirements:
 
 . Python 3.6+
 
