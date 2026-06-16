@@ -1,7 +1,7 @@
 Online Shopping Cart | Python | DSA
 
-**Features:
-**
+Features:
+
 . User Registration & Login
 
 . Browse products by categories (Clothes, Makeup, Haircare, Skincare)
