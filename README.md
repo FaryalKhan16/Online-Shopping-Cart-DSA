@@ -1,6 +1,7 @@
 Online Shopping Cart | Python | DSA
 
-Features:
+**Features:
+**
 . User Registration & Login
 
 . Browse products by categories (Clothes, Makeup, Haircare, Skincare)
@@ -12,6 +13,7 @@ Features:
 . Checkout functionality
 
 Tech Stack:
+
 . Python 3.x
 
 . Tkinter (GUI)
@@ -19,6 +21,7 @@ Tech Stack:
 . Pillow (Image processing)
 
 How to Use:
+
 . Register a new account
 
 . Login with credentials
@@ -30,6 +33,7 @@ How to Use:
 . "View Cart" → "Checkout" to complete purchase
 
 Requirements:
+
 . Python 3.6+
 
 . 256MB RAM
